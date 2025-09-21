@@ -1,2 +1,4 @@
 # Projekt-Webchatreborn
-Detta är projekt för att skapa en likande applikation discord(solo)
+This project main goal to replicate Discord Application by implementing realtime-communication
+- 
+Try out copilot, experimenting the possibility of using AI and good it is!
